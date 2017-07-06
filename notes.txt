@@ -1,0 +1,3 @@
+# install with: 
+$ pip install python-Levenshtein
+
